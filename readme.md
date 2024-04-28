@@ -8,17 +8,17 @@
 
 ### Members
 
-|팀원1|팀원2|팀원3|SRYNDEVK (ME)|팀원5|
+|팀원1|팀원2|팀원3|Lynxzdevk (ME)|팀원5|
 |:---:|:---:|:---:|:---:|:---:|
 | <img src='https://avatars.githubusercontent.com/u/97166760?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/33012030?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/87929279?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/28976334?v=4' height=80 width=80px></img> | <img src='https://avatars.githubusercontent.com/u/49403520?v=4' height=80 width=80px></img> |
-| [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/khs0415p) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/papari1123) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/coderJoon) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/sryndevk) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/iknocho) |
+| [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/khs0415p) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/papari1123) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/coderJoon) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/lynxzdevk) | [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/iknocho) |
 
 ### Contribution
 
 - [`팀원1`](https://github.com/khs0415p) &nbsp; Front/Back-end 구현 • ElasticSearch 구현
 - [`팀원2`](https://github.com/papari1123) &nbsp; Product Manager(PM) • Dialogue summarization 고도화
 - [`팀원3`](https://github.com/coderJoon) &nbsp; Dense retriever baseline 학습 및 평가 • ICT 응용기법 학습 및 평가 데이터 제작
-- [`SRYNDEVK (ME)`](https://github.com/siryuon) &nbsp; Front/Back-end 구현 • Dialogue summarization 및 metric 구현
+- [`Lynxzdevk (ME)`](https://github.com/siryuon) &nbsp; Front/Back-end 구현 • Dialogue summarization 및 metric 구현
 - [`팀원5`](https://github.com/iknocho) &nbsp; Data crawling scheduler 구현 • MongoDB 적용 • Retriever model 구현
 
 ### Project Tree
